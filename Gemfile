@@ -65,3 +65,5 @@ group :production do
   #for heroku
   gem 'rails_12factor'
 end
+
+gem 'slack-notifier'
